@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/LimeIncOfficial/Worm-Hole"><img src="" width="150px" alt="Funky Logo"></a>
+  <a href="https://github.com/LimeIncOfficial/Worm-Hole"><img src="https://github.com/LimeIncOfficial/Worm-Hole/blob/main/assets/iu.gif" width="150px" alt="Funky Logo"></a>
   <br>
   Worm Hole
   <br>
