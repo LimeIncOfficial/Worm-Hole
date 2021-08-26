@@ -7,7 +7,7 @@
 </h1>
 
 <h4 align="center">
-   The complete guide on how to setup up Worm Hole Secuity Solution. 
+   The complete guide on how to setup up the Standalone Worm Hole Secuity Solution. 
 </h4>
 
 ## Usage:

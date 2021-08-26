@@ -1,0 +1,37 @@
+Apple: http://www.apple.com/support/security/guides/
+
+NSA Guide: http://www.nsa.gov/ia/_files/factsheets/macosx_hardening_tips.pdf
+
+Mac Shadows: http://www.macshadows.com/kb/index.php?title=Hardening_Mac_OS_X
+
+Univ. Texas: https://wikis.utexas.edu/display/ISO/Mac+OS+X+Server+Hardening+Checklist
+
+Center for Internet Security: http://benchmarks.cisecurity.org/en-us/?route=downloads.browse.category.benchmarks.os.unix.osx
+
+NIST: https://csrc.nist.gov/CSRC/media/Publications/sp/800-179/rev-1/draft/documents/sp800-179r1-draft.pdf
+
+Blog:
+https://zerotoroot.me/
+https://github.com/jhbush/OS-X-Security-and-Privacy-Guide
+
+Gits:
+https://github.com/NunaInc/harden_macos
+https://github.com/beerisgood/macOS_Hardening
+https://github.com/ataumo/macos_hardening
+https://github.com/essandess/macOS-Fortress
+https://github.com/drduh/macOS-Security-and-Privacy-Guide
+https://gist.github.com/jjangsangy/7b76a53cbb28ca7fb272c00e6d7435e1
+https://medium.com/macoclock/macos-catalina-hardening-quick-tips-7288d7acf09d
+https://blog.bejarano.io/hardening-macos/
+https://github.com/usnistgov/macos_security
+https://github.com/kai5263499/osx-security-awesome
+https://github.com/ernw/hardening/blob/master/operating_system/osx/10.14/ERNW_Hardening_OS_X_Mojave.md
+https://github.com/harveyeckstein/osxcleaner
+https://github.com/felipeolifre/dotfiles
+https://github.com/StrangeRanger/macos-security-scripts
+https://github.com/dikien/Enhance-Security-and-Privacy-of-your-OSX
+https://github.com/alichtman/stronghold
+http://newosxbook.com/files/moxii3/AppendixA.pdf
+https://github.com/jhbush/OS-X-Security-and-Privacy-Guide
+
+
