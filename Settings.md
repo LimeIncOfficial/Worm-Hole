@@ -116,7 +116,7 @@ There are a couple of programs, such as Pages, Keynote, Numbers and others which
 
 ## Show all filename extensions
 
-F`inder -> Preferences -> Advanced`
+`Finder -> Preferences -> Advanced`
 As a security aware person, it's important to knowthe extensions of files, as it controls how a file is opened and processed. By default, not all filename extensions are shown in Finder. This changes that.
 
 
